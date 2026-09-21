@@ -5,4 +5,22 @@ h1 {
     color: white;
     }
 
+p{
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 20px;
+}
 
+.header {
+    background-color: #000205d6;
+    padding: 20px;
+    text-align: center;
+}
+
+.header2 {
+    background-color: #b0a77088;
+    padding: 15px;
+    text-align: center;
+}
